@@ -3,6 +3,7 @@
 - 🎓 I'm a master's student in Machine Learning at École Polytechnique Paris and MVA ENS Paris-Saclay.
 - 🔭 For my research I'm interested in a wide range of ML topics, including NLP, ML on graphs, AI safety and reliability, geometric data analysis. I'm also interested in interdisciplinary applications of ML, whether in biology, physics, or medicine.
 - 🚀 I have a strong interest for the industrial challenges related to the developpment of high performance products, whether they are business challenges (agile development, user experience, etc) or technical challenges (software architecture, high performance computing, etc).
+- 🐍 My main IT language is Python. I also have strong knowledges in Java, Javascript, HTML, and some practice in PHP, C++ and D3.
 - 📖 Here is the link to me ReasearchGate profile, where I publish most of the academic work I do: [https://www.researchgate.net/profile/Jeremie-Dentan](https://www.researchgate.net/profile/Jeremie-Dentan)
 - ✉️ You can have a look at [my LinkedIn profile](https://www.linkedin.com/in/jeremiedentan/) and reach me: [jeremie.dentan@polytechnique.org](mailto:jeremie.dentan@polytechnique.org)
 
