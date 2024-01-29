@@ -1,14 +1,15 @@
 ### Hi, I'm Jérémie 👋
 
-- 🎓 I'm a master's student in Machine Learning at École Polytechnique Paris and MVA ENS Paris-Saclay.
-- 🔭 For my research I'm interested in a wide range of ML topics, including NLP, ML on graphs, AI safety and reliability, geometric data analysis. I'm also interested in interdisciplinary applications of ML, whether in biology, physics, or medicine.
+- 📝 I'm a PhD candidate in ML security and privacy, co-supervised by École Polytechnique Paris and Crédit Agricole DataLab Groupe.
+- 🎓 In 2023 I graduated from MVA master at ENS Paris-Saclay and engineering degree at École Polytechnique
+- 🔭 For my research I'm interested in a wide range of ML topics, including ML privacy, language models, or AI safety and reliability. I'm also interested in interdisciplinary applications of ML, whether in biology, physics, or medicine.
 - 🐍 My main IT language is Python. I also have strong knowledge in Java, Javascript, HTML, and some practice in PHP, C++ and D3.
 - 🚀 I have a strong interest for the industrial challenges related to the developpment of high performance products, whether they are business challenges (agile development, user experience, etc) or technical challenges (software architecture, high performance computing, etc).
 
 💬 **Contact**
 
 - 📖 Here is the link to my ResearchGate profile, where I publish most of the academic work I do: [https://www.researchgate.net/profile/Jeremie-Dentan](https://www.researchgate.net/profile/Jeremie-Dentan)
-- ✉️ You can have a look at [my LinkedIn profile](https://www.linkedin.com/in/jeremiedentan/) and reach me: [jeremie.dentan@polytechnique.org](mailto:jeremie.dentan@polytechnique.org)
+- ✉️ You can have a look at [my LinkedIn profile](https://www.linkedin.com/in/jeremiedentan/) and contact me from there!
 
 🌱 **Repositories**
 
